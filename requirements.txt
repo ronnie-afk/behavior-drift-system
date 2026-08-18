@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pandas
+numpy
+python-multipart
+apscheduler
+passlib
+openpyxl
+reportlab
+requests
+scikit-learn
+python-dateutil
