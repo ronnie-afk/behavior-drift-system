@@ -1,0 +1,29 @@
+ 
+# Virtual environment
+venv/
+
+# OULAD dataset — too large for GitHub (422 MB)
+oulad_data/
+
+# Generated files
+student_activity.csv
+dashboard.html
+*.pdf
+
+# Database file
+behavior_drift.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
